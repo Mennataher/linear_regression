@@ -1,3 +1,5 @@
+Assignment 1 AI
+
 # linear_regression
 10 types of optimizers in Machine Learning
 1. Gradient Descent (GD)
